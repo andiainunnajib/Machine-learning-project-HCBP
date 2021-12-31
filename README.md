@@ -3,6 +3,8 @@
 * Menggunakan AutoML untuk memilih algoritma yang paling baik pada supervised learning
 * Mebuat Machine learnig unsupervised menggunakan K-means untuk melakukan segmentasi critical divisi (yang kekurangan pegawai atau tidak memiliki atasan)
 
+![image](https://user-images.githubusercontent.com/85381045/147800720-f7ce994e-3cc5-4896-bfbb-ff2e15a00da6.png)
+
 ## Table of Contents
 * **[EDA pada supervised dataset](#eda-pada-supervised-dataset)**
 
